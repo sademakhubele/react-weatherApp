@@ -1,4 +1,5 @@
 import React from "react";
+import "./Weather.css";
 
 export default function Weather() {
     let weatherData = {
@@ -68,7 +69,7 @@ export default function Weather() {
             Sade Makhubele</a
           >, is
           <a
-            href=""
+            href="https://github.com/sademakhubele/react-weatherApp.git"
             >open-sourced on GitHub</a
           >
           and
