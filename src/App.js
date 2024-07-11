@@ -3,7 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Main from "./Main";
 
-export deflault function App() {
+export default function App() {
   return (
     <div className="App">
       <div className="container">

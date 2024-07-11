@@ -4,16 +4,16 @@ export default function Footer() {
     return (
       <footer>
         This project was coded by
-        <a href="https://github.com/SoniaJayat" target="blank">
+        <a href="https://github.com/Sademakhubele" target="blank">
           {" "}
-          Magdalena Zyglewicz{" "}
+          Sade Makhubele{" "}
         </a>
         is open-sourced on
-        <a href="https://github.com/Lena3891/React-Week-4" target="blank">
+        <a href="https://github.com/sademakhubele/react-weatherApp.git" target="blank">
           GitHub{" "}
         </a>
         and hosted on
-        <a href="https://react-week-4-meteo-app.netlify.app/" target="blank">
+        <a href="https://weatherreactappsm.netlify.app/" target="blank">
           {" "}
           Netlify
         </a>

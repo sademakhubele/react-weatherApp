@@ -6,7 +6,7 @@ export default function Main() {
           <div className="weather-app-container">
             <div>
               <h1 className="weather-app-city" id="city">
-                Neuburg an der Donau
+               Limpopo 
               </h1>
               <p className="weather-app-details">
                 <span id="time">Tuesday 20:30</span>,
